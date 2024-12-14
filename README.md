@@ -1,3 +1,3 @@
 # PPNode
 
-> open-source handheld node for sovereign mesh networks
+> Open-source handheld LoRa node for sovereign mesh networks
